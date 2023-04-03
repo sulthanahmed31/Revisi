@@ -1,0 +1,11 @@
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\bin\Debug\AD_Week5.exe.config
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\bin\Debug\AD_Week5.exe
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\bin\Debug\AD_Week5.pdb
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.csproj.AssemblyReference.cache
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.Form1.resources
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.Properties.Resources.resources
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.csproj.GenerateResource.cache
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.csproj.CoreCompileInputs.cache
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.exe
+C:\Users\Sulthan\source\repos\AD_Week5\AD_Week5\obj\Debug\AD_Week5.pdb
